@@ -22,7 +22,7 @@ pip install opencv-python mediapipe
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https:// github.com/JulioLage-Alx/face_upload/
+   git clone https://github.com/JulioLage-Alx/face_upload
    cd sistema-reconhecimento-facial
    ```
 
